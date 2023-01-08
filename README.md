@@ -1,2 +1,1 @@
-# TawasolTask
-Catching the diamond
+# DiamondTask
